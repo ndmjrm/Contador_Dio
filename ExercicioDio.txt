@@ -1,0 +1,32 @@
+import java.util.Scanner;
+public class Main
+{
+
+class Calcula
+{
+int soma;
+public int calcular (int valor1, int valor2);
+{
+return soma = valor1 + valor2;
+}
+}
+
+public static void main (String[] args ){
+Scanner end= new Scanner(System.in);
+
+{
+int valor1;
+int valor2;
+int soma;
+
+System.out.println(“Digite o valor do primeiro numero:”);
+valor1= end.nextInt();
+System.out.println(“Digite o valor do primeiro numero:”);
+valor1= end.nextInt();
+
+}
+soma = valor1 + valor2;
+
+System.out.println(+soma);
+}
+}
